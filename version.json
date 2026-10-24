@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.3.0",
-  "release_notes": "Added in-app auto-updater, Modern Warfare 4, Once Human, and EA FC 27 detection fixes!",
+  "latest_version": "1.4.1",
+  "release_notes": "Added in-app auto-updater",
   "download_url": "https://github.com/ItsMeMoath/DiscordQuestSimulator/releases/latest",
   "direct_download_url": "https://github.com/ItsMeMoath/DiscordQuestSimulator/releases/latest/download/DiscordQuestSimulator_Portable.exe"
 }
